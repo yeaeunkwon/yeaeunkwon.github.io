@@ -2,10 +2,7 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
-  - title: website
+  - title: CV
     url: https://www.abhinav.co
 
 project_entries:
