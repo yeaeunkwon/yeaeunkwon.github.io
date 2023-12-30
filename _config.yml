@@ -2,9 +2,9 @@ title: Yeaeun Kwon
 author: Yeaeun Kwon
 url: https://yeaeunkwon.github.io/ # root address of the site
 description: |
-Hello. I am in the first year of PhD in Information Science at the Univeristy of Arizona.
-My research interests are Computational Social Science by using NLP. Specifically, I am interested in social biases and dynamics on social media.
-email: yeaeunkwon@arizona.edu
+    Hello. I am in the first year of PhD in Information Science at the Univeristy of Arizona.
+    My research interests are Computational Social Science by using NLP. Specifically, I am interested in social biases and dynamics on social media.
+    email: yeaeunkwon@arizona.edu
 
 permalink: /:slug
 
