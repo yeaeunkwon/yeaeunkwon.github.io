@@ -5,8 +5,6 @@ navbar_entries:
   - title: CV
     url: https://drive.google.com/file/d/1HhVE-_tlZcou8nE0hVhJffIzmoKzUheD/view?usp=sharing
 
-  - title: Email
-    url: <a href="yeaeunkwon@arizona.edu">
     
 misc_entries:
   - title: this is an example vertical list
@@ -25,7 +23,7 @@ misc_entries:
   - title: moonwalk on the Internet
     url: false
     entries:
-      - title: on Github
+      - title: Email
         url: https://github.com/abhinavs/moonwalk
 
       - title: originally built for abhinav's homepage
