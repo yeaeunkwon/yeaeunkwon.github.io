@@ -1,9 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
   - title: CV
     url: https://drive.google.com/file/d/1HhVE-_tlZcou8nE0hVhJffIzmoKzUheD/view?usp=sharing
+
+  - title: Email
+    url: yeaeunkwon@arizona.edu
     
 misc_entries:
   - title: this is an example vertical list
