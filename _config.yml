@@ -35,7 +35,7 @@ theme_config:
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
-  show_projects: false # show projects as cards, add in _data/home.yml
+  show_projects: True # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
@@ -43,7 +43,7 @@ theme_config:
   show_tags: false # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Publications
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Old Projects
