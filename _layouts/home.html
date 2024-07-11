@@ -29,7 +29,7 @@ layout: default
 
 {% if site.theme_config.show_blog == true %}
   <h2>{{ site.theme_config.home.title_blog }}</h2>
-  {% include post_list.html %}
+  {% include vertical_list.html collection=site.data.home.blog %}
 {% endif %}
 
 {% if site.theme_config.show_old_projects == true %}
