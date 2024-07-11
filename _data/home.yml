@@ -38,38 +38,7 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-blog:
-  - title: CLULab-UofA at SemEVal-2024 Tak 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification. In Proceedings of the Eighteenth Workshop on Semantic Evaluation, 2024 SemEval 2024
-    url: https://aclanthology.org/2024.semeval-1.215
-    
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: false
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: Email
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
 
 
 
