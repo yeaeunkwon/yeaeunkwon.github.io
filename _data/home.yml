@@ -10,7 +10,7 @@ navbar_entries:
     url: https://github.com/yeaeunkwon
     
 misc_entries:
-  - title: "CLULab-UofA at SemEVal-2024 Tak 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
+  - title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
     url: https://aclanthology.org/2024.semeval-1.215
     
 
