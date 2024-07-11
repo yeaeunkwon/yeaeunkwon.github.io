@@ -5,7 +5,8 @@ navbar_entries:
 
   - title: LinkedIn
     url: https://www.linkedin.com/in/yeaeun-kwon2328
-
+  - title: Github
+    url: https://github.com/yeaeunkwon
     
 misc_entries:
   - title: CLULab-UofA at SemEVal-2024 Tak 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification. In Proceedings of the Eighteenth Workshop on Semantic Evaluation, 2024 SemEval 2024
