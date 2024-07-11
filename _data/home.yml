@@ -9,7 +9,7 @@ navbar_entries:
     
 misc_entries:
   - title: this is an example vertical list
-    url: false
+    url: true
 
   - title: you can show or hide using a boolean flag in _config.yml
     url: false
@@ -18,7 +18,7 @@ misc_entries:
     url: false
 
   - title: Blog posts
-    post_list: true
+    post_list: false
     url: false
 
   - title: moonwalk on the Internet
