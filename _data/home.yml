@@ -11,7 +11,7 @@ navbar_entries:
     
 misc_entries:
   - title: "CLULab-UofA at SemEVal-2024 Tak 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
-    url: false
+    url: https://aclanthology.org/2024.semeval-1.215
     
 
   - title: you can show or hide using a boolean flag in _config.yml
