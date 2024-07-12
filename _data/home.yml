@@ -19,7 +19,7 @@ misc_entries:
 
 ongoing_projects:
   - title: "Peitho Project - International Influence in Science "
-    url: https://aclanthology.org/2024.semeval-1.215
+    url: false
     author: Mohammadhossein Rezaei, Yeaeun Kwon, Reza Sanayei, Abhyuday Singh, Steven Bethard
     publisher: <b>SemEval-2024</b>
 
