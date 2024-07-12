@@ -2,10 +2,10 @@
   {% for item in include.collection %}
     <li>
     {% if item.url != false %}
-      <a href="{{ item.url }}">{{ item.title }}</a>
+      <a href="{{ item.url }}">{{ item.title }}</a><br />
       {{ item.author }}
     {% else %}
-      {{ item.title }}
+      {{ item.title }}<br />
       {{ item.author }}
     {% endif %}
 
