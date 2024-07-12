@@ -3,8 +3,10 @@
     <li>
     {% if item.url != false %}
       <a href="{{ item.url }}">{{ item.title }}</a>
+      {{ item.author }}
     {% else %}
       {{ item.title }}
+      {{ item.author }}
     {% endif %}
 
     {% if item.post_list == true %}
