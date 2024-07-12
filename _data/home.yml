@@ -13,7 +13,9 @@ misc_entries:
   - title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
     url: https://aclanthology.org/2024.semeval-1.215
     author: Mohammadhossein Rezaei, <b>Yeaeun Kwon</b>, Reza Sanayei, Abhyuday Singh, Steven Bethard
-    publisher: <i>SemEval-2024</i>
+    publisher: <i>Proceedings of the Fourteenth Workshop on Semantic Evaluation 2024</i>
+    poster: [poster]
+    poster_url: https://drive.google.com/file/d/1bU1Ao7T2hRSMsSPCgIhT_E49MOpvdzT1/view?usp=sharing
 
 ongoing_projects:
   - title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
