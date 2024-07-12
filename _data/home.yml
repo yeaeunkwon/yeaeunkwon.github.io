@@ -15,27 +15,13 @@ misc_entries:
     author: Mohammadhossein Rezaei, Yeaeun Kwon, Reza Sanayei, Abhyuday Singh, Steven Bethard
     publisher: <b>SemEval-2024</b>
 
-  - title: Blog posts
-    post_list: false
-    url: false
+ongoing_projects:
+  - title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
+    url: https://aclanthology.org/2024.semeval-1.215
+    author: Mohammadhossein Rezaei, Yeaeun Kwon, Reza Sanayei, Abhyuday Singh, Steven Bethard
+    publisher: <b>SemEval-2024</b>
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: Email
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+        
 
 
 
