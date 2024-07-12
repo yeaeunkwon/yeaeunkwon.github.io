@@ -16,9 +16,11 @@ misc_entries:
 
   - title: you can show or hide using a boolean flag in _config.yml
     url: false
+    author: 
 
   - title: and you can add data in _data/home.yml
     url: false
+    author:
 
   - title: Blog posts
     post_list: false
