@@ -5,10 +5,12 @@
       <a href="{{ item.url }}">{{ item.title }}</a><br />
       {{ item.author }}
       {{ item.publisher}}
+      <a href="{{ item.poster_url }}">{{ item.poster }}</a>
     {% else %}
       {{ item.title }}<br />
       {{ item.author }}
       {{ item.publisher}}
+      <a href="{{ item.poster_url }}">{{ item.poster }}</a>
     {% endif %}
 
     {% if item.post_list == true %}
