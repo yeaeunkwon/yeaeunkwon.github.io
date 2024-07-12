@@ -3,12 +3,12 @@
     <li>
     {% if item.url != false %}
       <a href="{{ item.url }}">{{ item.title }}</a><a href="{{ item.poster_url }}">{{ item.poster }}</a><br />
-      {{ item.author }}
+      {{ item.author }}<br />
       {{ item.publisher}}
    
     {% else %}
       {{ item.title }}<a href="{{ item.poster_url }}">{{ item.poster }}</a><br />
-      {{ item.author }}
+      {{ item.author }}<br />
       {{ item.publisher}}
     
     {% endif %}
