@@ -18,8 +18,7 @@ misc_entries:
 ongoing_projects:
   - title: "Peitho Projects- International Influence in Science"
     url: false
-    author: The goal of the grant is to study international influence in science and what is researched on the science of influence. It’s funded through the US Department of Defense through the US Army/West Point (Army military academy). 
-    I am focusing on measuring influence between countriess across time windows, using text embeddings and text similarity. 
+    author: The goal of the grant is to study international influence in science and what is researched on the science of influence. It’s funded through the US Department of Defense through the US Army/West Point (Army military academy). I am focusing on measuring influence between countriess across time windows, using text embeddings and text similarity. 
     publisher: <b>University of Arizona (PI: Prof. Charles Gomez)<\b>
 
         
