@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 html { height: 100%; }
 
 body {
-  font-family: "Courier Prime", monospace;
-  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
 pre, code {
-  font-family: "Courier Prime", monospace;
+  font-family: "Montserrat", sans-serif;
   font-size: 0.9rem;
 }
 h2, h3, h4, h5 { margin-top: 1.5em; }
@@ -150,10 +150,10 @@ mark {
   color: var(--text-secondary);
   margin-top: 1rem;
   font-size: 0.7em;
-  font-family: "Courier Prime", monospace;
+  font-family: "Montserrat", sans-serif;
 }
 .home-date {
-  font-family: "Courier Prime", monospace;
+  font-family: "Montserrat", sans-serif;
 }
 .post-list-item a {
   text-decoration: none;
@@ -192,7 +192,7 @@ p code, li code {
   }
 }
 .tag {
-  font-family: "Courier Prime", monospace;
+  font-family: "Montserrat", sans-serif;
   color: var(--text-secondary);
   padding: 0.4em 1em;
   margin-right: 0.5em;
