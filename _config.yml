@@ -45,7 +45,7 @@ theme_config:
   home:
     title_projects: projects
     title_misc_list: Publications
-    title_blog: Research Experience
+    title_blog: Ongoing Projects
     title_old_projects: Old Projects
 
 soopr:
