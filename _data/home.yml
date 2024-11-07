@@ -22,7 +22,7 @@ Research experience:
     url: false
     author: This research investigates international influence in science through research articles published from 1995 to 2000. I am focusing on measuring influence between countries across time windows, using text embeddings and similarity. 
     I created the unique text embedding method to represent the research characteristics of each country and measured the influence between core countries to the peripheral countries in 5 research areas, which are Physical sciecnes and math, Medical Sciences,
-    Technology and Engineering, Biological and Ecological Sciences, and Social and Behavioral Sciences. We trace the development and influence between countries and within the countries using text analysis.
+    Technology and Engineering, Biological and Ecological Sciences, and Social and Behavioral Sciences. Additoinally, we trace the development of research areas within the countries using text analysis.
     publisher: <i>Global Knowledge Lab, University of Arizona / Advisor: Charles Gomez</i>
 
         
