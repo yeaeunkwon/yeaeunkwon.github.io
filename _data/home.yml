@@ -18,10 +18,10 @@ misc_entries:
     poster_url: https://drive.google.com/file/d/1bU1Ao7T2hRSMsSPCgIhT_E49MOpvdzT1/view?usp=sharing
 
 ongoing_projects:
-  - title: "Peitho Project - International Influence in Science "
+  - title: "International Influence in Science "
     url: false
     author: The goal of the grant is to study international influence in science and what is researched on the science of influence. It’s funded through the US Department of Defense through the US Army/West Point (Army military academy). I am focusing on measuring influence between countries across time windows, using text embeddings and similarity. 
-    publisher: <i>PI - Prof.Charles Gomez from University of Arizona</i>
+    publisher: <i>Global Knowledge Lab, University of Arizona / Advisor: Charles Gomez</i>
 
         
 
