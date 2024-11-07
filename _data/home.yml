@@ -18,9 +18,9 @@ misc_entries:
     poster_url: https://drive.google.com/file/d/1bU1Ao7T2hRSMsSPCgIhT_E49MOpvdzT1/view?usp=sharing
 
 ongoing_projects:
-  - title: <b>International Influence in Science</b>
+  - title: "<b>International Influence in Science</b>"
     url: false
-    author: This research investigates international influence in science through research articles. I am focusing on measuring influence between countries across time windows for 1995-2000, using text embeddings and similarity. The unique text embedding method I created represents the research characteristics of each country and measured the influence between core countries to the peripheral countries in 5 research areas, which are Physical sciences and math, Medical Sciences, Technology and Engineering, Biological and Ecological Sciences, and Social and Behavioral Sciences.
+    author: This research investigates international influence in science through research articles. I am focusing on measuring influence between countries across time windows for 1995-2000, using text embeddings and similarity. The unique text embedding method I created represents the research characteristics of each country and enables to measure the influence between core to the peripheral countries in 5 research areas, which are Physical sciences and math, Medical Sciences, Technology and Engineering, Biological and Ecological Sciences, and Social and Behavioral Sciences.
     publisher: <i>Global Knowledge Lab, University of Arizona, Advisor- Charles Gomez</i>
 
  - title: <b>Classification between human-written texts and machine-generated texts</b>
