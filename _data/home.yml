@@ -8,6 +8,9 @@ navbar_entries:
 
   - title: <b>Github</b>
     url: https://github.com/yeaeunkwon
+
+  - title: <b>Projects</b>
+    url: https://github.com/yeaeunkwon
     
 misc_entries:
   - title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
