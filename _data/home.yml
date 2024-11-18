@@ -30,7 +30,7 @@ ongoing_projects:
     publisher: <i>Global Knowledge Lab, University of Arizona, Advisor- Charles Gomez</i>
   - title: <b>Classification between human-written texts and machine-generated texts</b>
     url: false
-    author: This research investigates international influence in science through research articles. I am focusing on measuring influence between countries across time windows for 1995-2000, using text embeddings and similarity. The unique text embedding method I created represents the research characteristics of each country and measured the influence between core countries to the peripheral countries in 5 research areas, which are Physical sciences and math, Medical Sciences, Technology and Engineering, Biological and Ecological Sciences, and Social and Behavioral Sciences.
+    author: The task of this project is the multi-class classification between human-written texts and five state-of-the-art machine-generated texts. I Implemented unsupervised learning and triplet-loss-trained text similarity method using hard-positive and negative.
     publisher: <i>Computational Language Understanding Lab, University of Arizona, Advisor- Steven Bethard</i>
 
         
