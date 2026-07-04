@@ -2,7 +2,7 @@ title: Yeaeun Kwon
 author: Yeaeun Kwon
 url: https://yeaeunkwon.github.io/ # root address of the site
 description: |
-    Hello! I'm a third-year Ph.D. student in Information Science at the University of Arizona, working with [Dr. Steven Bethard](https://bethard.github.io).
+    Hello! I'm a third-year Ph.D. student in Information Science at the University of Arizona, working with <a href="https://bethard.github.io">Dr. Steven Bethard</a>
 
     
     My research interests lie in fairness and bias in NLP, AI ethics, and computational social science. Specifically, I focus on social bias, ethical issues, and social dynamics in and around LLMs.
