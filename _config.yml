@@ -1,17 +1,12 @@
 title: Yeaeun Kwon
 author: Yeaeun Kwon
 url: https://yeaeunkwon.github.io/ # root address of the site
-description: |
-    Hello. I am a third-year Ph.D. student in Information Science at the University of Arizona.
+description: 
+    Hello! I'm a third-year Ph.D. student in Information Science at the University of Arizona, working with [Dr. Steven Bethard](https://bethard.github.io).
 
-    
-    My research interests lie in fairness in NLP, structured representations, and computational social science. Specifically, my research focuses on social bias, ethical issues, and social dynamics in/with LLMs.
-   
-    
-    Prior to my doctoral studies, I researched string pattern matching algorithms for my master's thesis, comparing short and long-term data.
-    
-    
-    I received an MS in Computer Engineering from Korea Aerospace University and a BA in Economics from Hongik University.
+My research interests lie in fairness and bias in NLP, AI ethics, and computational social science. Specifically, I focus on social bias, ethical issues, and social dynamics in and around LLMs.
+
+Prior to my doctoral studies, I completed a master's degree in Computer Engineering at Korea Aerospace University, where my thesis focused on string pattern matching algorithms for comparing short- and long-term time-series data.
 
 
 permalink: /:slug
