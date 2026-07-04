@@ -12,18 +12,18 @@ navbar_entries:
   - title: <b>Projects</b>
     url: https://github.com/yeaeunkwon
     
-misc_entries:
-  - title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
-    url: https://aclanthology.org/2024.semeval-1.215
-    author: Mohammadhossein Rezaei, <b>Yeaeun Kwon</b>, Reza Sanayei, Abhyuday Singh, Steven Bethard
-    publisher: <i>Proceedings of the Fourteenth Workshop on Semantic Evaluation 2024</i>
-    poster: <b>[Poster]</b>
-    poster_url: https://drive.google.com/file/d/1bU1Ao7T2hRSMsSPCgIhT_E49MOpvdzT1/view?usp=sharing
-  - title: "Developing a Text-Based Measure of Humility in Inquiry Using Computational Grounded Theory"
-    url: https://asistdl-onlinelibrary-wiley-com.ezproxy3.library.arizona.edu/doi/pdf/10.1002/pra2.1119 
-    author: Sarah Bratt, Erin Leahey, Charles Gomez, Jina Lee, <b>Yeaeun Kwon</b>, Charles Lassiter
-    publisher: <i>Proceedings of the Association for Information Science and Technology 2024</i>
-    poster: False
+#misc_entries:
+  #- title: "CLULab-UofA at SemEVal-2024 Task 8: Detecting Machine-Generated Text Using Triplet-Loss-Trained Text Similarity and Text Classification"
+    #url: https://aclanthology.org/2024.semeval-1.215
+    #author: Mohammadhossein Rezaei, <b>Yeaeun Kwon</b>, Reza Sanayei, Abhyuday Singh, Steven Bethard
+    #publisher: <i>Proceedings of the Fourteenth Workshop on Semantic Evaluation 2024</i>
+    #poster: <b>[Poster]</b>
+    #poster_url: https://drive.google.com/file/d/1bU1Ao7T2hRSMsSPCgIhT_E49MOpvdzT1/view?usp=sharing
+  #- title: "Developing a Text-Based Measure of Humility in Inquiry Using Computational Grounded Theory"
+    #url: https://asistdl-onlinelibrary-wiley-com.ezproxy3.library.arizona.edu/doi/pdf/10.1002/pra2.1119 
+    #author: Sarah Bratt, Erin Leahey, Charles Gomez, Jina Lee, <b>Yeaeun Kwon</b>, Charles Lassiter
+    #publisher: <i>Proceedings of the Association for Information Science and Technology 2024</i>
+    #poster: False
   
 
         
