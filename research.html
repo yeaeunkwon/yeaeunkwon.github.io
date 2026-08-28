@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research — Yeaeun Kwon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #FAFAF6;
+    --ink: #1C1F26;
+    --ink-soft: #565A63;
+    --accent: #3B6E71;
+    --accent-soft: #C9DEDD;
+    --rule: #DEDCD3;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body { min-height: 100vh; display: flex; flex-direction: column; }
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px clamp(20px, 6vw, 64px);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .mark {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    text-decoration: none;
+  }
+
+  nav { display: flex; gap: clamp(16px, 3vw, 32px); }
+
+  nav a {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: var(--ink);
+    padding: 6px 2px;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+  }
+
+  nav a:hover, nav a:focus-visible {
+    color: var(--accent);
+    border-color: var(--accent);
+    outline: none;
+  }
+
+  nav a.current { color: var(--accent); border-color: var(--accent); }
+
+  main {
+    flex: 1;
+    padding: clamp(56px, 8vw, 96px) clamp(20px, 6vw, 64px);
+    max-width: 1040px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .section-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 12px;
+  }
+
+  h1 {
+    font-family: 'Source Serif 4', serif;
+    font-size: clamp(1.9rem, 3.6vw, 2.6rem);
+    font-weight: 600;
+    margin: 0 0 28px;
+    line-height: 1.2;
+  }
+
+  .research-intro {
+    line-height: 1.75;
+    color: var(--ink-soft);
+    max-width: 68ch;
+    font-size: 1.02rem;
+    margin: 0 0 48px;
+  }
+
+  .category {
+    margin-bottom: 56px;
+  }
+
+  .category:last-child {
+    margin-bottom: 0;
+  }
+
+  .category-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 4px;
+  }
+
+  .category-desc {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    max-width: 62ch;
+    margin: 0 0 24px;
+  }
+
+  .research-list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .research-item {
+    border-top: 1px solid var(--rule);
+    padding: 22px 0;
+  }
+
+  .research-item:last-child {
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .research-item h3 {
+    font-family: 'Source Serif 4', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0 0 8px;
+  }
+
+  .research-item p {
+    margin: 0;
+    line-height: 1.65;
+    color: var(--ink-soft);
+    font-size: 0.98rem;
+    max-width: 62ch;
+  }
+
+  footer {
+    padding: 20px clamp(20px, 6vw, 64px);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--rule);
+  }
+
+
+</style>
+</head>
+<body>
+
+<header>
+  <a class="mark" href="index.html">Yeaeun Kwon</a>
+  <nav>
+    <a href="index.html">About</a>
+    <!-- Replace with your actual Google Drive share link for your CV -->
+    <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view" target="_blank" rel="noopener">CV</a>
+    <a href="research.html" class="current">Research</a>
+  </nav>
+</header>
+
+<main>
+  <p class="section-label">Research</p>
+  <h1>Bias, alignment, and social meaning in text</h1>
+  <p class="research-intro">
+    My work sits at the intersection of computational social science and NLP. I study how subjective,
+    often implicit social values, incivility, humility, sycophancy, equity, surface in language, and how
+    large language models pick up, reproduce, or distort those signals. I'm interested in what this means
+    both for understanding society through text and for building AI systems that are fair and trustworthy.
+  </p>
+
+  <div class="category">
+    <p class="category-title">Bias in LLMs</p>
+    <p class="category-desc">Studying how large language models encode and express bias, including alignment
+    behaviors like sycophancy that can undermine trustworthy AI.</p>
+    <div class="research-list">
+      <div class="research-item">
+        <h3>Measuring Sycophancy of LLMs in Moral Dilemmas</h3>
+        <p>Evaluating sycophantic bias across seven LLMs by measuring agreement and disagreement shifts
+        and refusal rates under varying response restrictions and realistic framings.</p>
+      </div>
+      <!-- Add new items in this category here -->
+    </div>
+  </div>
+
+  <div class="category">
+    <p class="category-title">Measuring Social Dynamics with LLMs</p>
+    <p class="category-desc">Using LLMs to detect and quantify social phenomena in real-world text, such as
+    incivility, community norms, and the effects of media bias.</p>
+    <div class="research-list">
+      <div class="research-item">
+        <h3>Moderating Effects of Community Values on Media Bias and Incivility</h3>
+        <p>Fine-tuned language models on 4M+ Reddit comments to detect incivility and seven community
+        values, then used mixed-effects models to quantify how community norms moderate the relationship
+        between media bias and incivility.</p>
+      </div>
+      <!-- Add new items in this category here -->
+    </div>
+  </div>
+
+  <div class="category">
+    <p class="category-title">Computational Social Science</p>
+    <p class="category-desc">Applying computational text methods to study broader social phenomena in
+    science and scholarship, from how ideas spread to how humility is expressed in research writing.</p>
+    <div class="research-list">
+      <div class="research-item">
+        <h3>Measuring Linguistic Mimesis in Global Science</h3>
+        <p>Developing text-based computational metrics to quantify international influence and field
+        disruption in scientific research.</p>
+      </div>
+      <div class="research-item">
+        <h3>Quantifying Intellectual Humility in Scientific Literature</h3>
+        <p>Built an annotated dataset of human values and humility, and fine-tuned language models to
+        detect subtle, implicit expressions of intellectual humility in research papers.</p>
+      </div>
+      <!-- Add new items in this category here -->
+    </div>
+  </div>
+</main>
+
+<footer>
+  © 2026 Yeaeun Kwon
+</footer>
+
+</body>
+</html>
