@@ -102,11 +102,19 @@
 
   .category {
     margin-bottom: 56px;
+    padding-top: 40px;
+    border-top: 1px solid var(--rule);
   }
-
+ 
+  .category:first-child {
+    padding-top: 0;
+    border-top: none;
+  }
+ 
   .category:last-child {
     margin-bottom: 0;
   }
+ 
 
   .category-title {
     font-family: 'IBM Plex Mono', monospace;
@@ -132,21 +140,16 @@
   }
 
   .research-item {
-    border-top: 1px solid var(--rule);
-    padding: 22px 0;
+    padding: 14px 0;
   }
-
-  .research-item:last-child {
-    border-bottom: 1px solid var(--rule);
-  }
-
+ 
   .research-item h3 {
     font-family: 'Source Serif 4', serif;
     font-size: 1.1rem;
     font-weight: 600;
     margin: 0 0 8px;
   }
-
+ 
   .research-item p {
     margin: 0;
     line-height: 1.65;
@@ -190,7 +193,7 @@
   <div class="category">
     <p class="category-title">Bias in LLMs</p>
     <p class="category-desc">Studying how large language models encode and express bias, including alignment
-    behaviors like sycophancy that can undermine trustworthy AI.</p>
+    behaviors that can undermine trustworthy AI.</p>
     <div class="research-list">
       <div class="research-item">
         <h3>Measuring Sycophancy of LLMs in Moral Dilemmas</h3>
@@ -203,8 +206,7 @@
 
   <div class="category">
     <p class="category-title">Measuring Social Dynamics with LLMs</p>
-    <p class="category-desc">Using LLMs to detect and quantify social phenomena in real-world text, such as
-    incivility, community norms, and the effects of media bias.</p>
+    <p class="category-desc">Using LLMs to detect and quantify social phenomena in real-world text.</p>
     <div class="research-list">
       <div class="research-item">
         <h3>Moderating Effects of Community Values on Media Bias and Incivility</h3>
@@ -219,7 +221,7 @@
   <div class="category">
     <p class="category-title">Computational Social Science</p>
     <p class="category-desc">Applying computational text methods to study broader social phenomena in
-    science and scholarship, from how ideas spread to how humility is expressed in research writing.</p>
+    science and scholarship.</p>
     <div class="research-list">
       <div class="research-item">
         <h3>Measuring Linguistic Mimesis in Global Science</h3>
